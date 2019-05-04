@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "gitDecoration.ignoredResourceForeground": "#ff0000",
+        "gitDecoration.untrackedResourceForeground": "#aa0000",
+        "gitDecoration.modifiedResourceForeground": "#ff0000"
+    },
+    "explorer.decorations.colors": true,
+}
